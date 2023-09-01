@@ -1,2 +1,2 @@
 #!/bin?bash
-chmo 
+mkdir -m 751 my_dir 
